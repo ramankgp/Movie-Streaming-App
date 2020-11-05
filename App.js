@@ -3,7 +3,7 @@ import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import {MaterialCommunityIcons} from '@expo/vector-icons'
 
-//Screens
+//Screens raw
 import Home from './screens/home'
 import Recents from './screens/recents'
 import Profile from './screens/profile'
